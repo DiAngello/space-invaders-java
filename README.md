@@ -44,7 +44,7 @@
 
 Space Invaders é um jogo clássico recriado em Java, utilizando `Swing` para interface gráfica e `AWT` para manipulação de eventos. O objetivo do jogo é destruir os alienígenas antes que eles alcancem sua nave.
 
-![Demo](demo-space-invaders.gif)
+<img src="demo-space-invaders.gif" width="300">
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
