@@ -89,7 +89,7 @@ Space Invaders é um jogo clássico recriado em Java, utilizando `Swing` para in
 <!-- CONTACT -->
 ## Contatos 🌟
 
-Andressa de Souza - [Seu GitHub](https://github.com/DiAngello) - andressa.gabrielly.ofc@gmail.com
+Andressa de Souza - aka DiAngello - andressa.gabrielly.ofc@gmail.com
 
 Link do projeto: [https://github.com/DiAngello/space-invaders-java](https://github.com/DiAngello/space-invaders-java)
 
