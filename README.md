@@ -2,8 +2,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="./alien.png">
-    <img src="" alt="Logo">
+  <a href="https://github.com/DiAngello">
+    <img src="alien.png" alt="Logo">
   </a>
 
   <h3 align="center">Space Invaders</h3>
