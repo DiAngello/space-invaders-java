@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/DiAngello">
+  <a href="https://github.com/DiAngello/space-invaders-java">
     <img src="alien.png" alt="Logo">
   </a>
 
